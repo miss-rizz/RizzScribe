@@ -3,7 +3,7 @@
 # Accessibility, Input Monitoring, ...) and saved data, then deletes the app.
 #
 #   ./rizzscribe-cleanup.sh
-ID="com.aifabrik.rizzdictation"
+ID="com.rizz.rizzscribe"
 APP="/Applications/RizzScribe.app"
 
 # 1. Quit the app so nothing is holding files open.
